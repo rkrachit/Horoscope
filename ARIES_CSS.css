@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+/* .aries_body{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+} */
+
+
+.aries_body{
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.aries_text>p:nth-child(1){
+font-size: 3rem;
+text-align: center;
+}
+
+
+.aries_text>p:nth-child(2){
+    font-size: 1.5rem;
+    }
+
+
+    .aries_bg_image img{
+width: 100%;
+height: 80vh;
+    }
+
+
+    .aries_text p{
+        font-size: 1.5rem;
+    }
